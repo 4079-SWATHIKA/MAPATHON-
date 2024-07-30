@@ -1,2 +1,2 @@
 # MAPATHON-
-I have created a semantic map by collecting various data from kaggle based on the soil health in chengalpattu district using QGIS software.
+Developed a domain-specific map using QGIS software for the IIT Bombay FOSSEE World Level Mapathon competition. Involved extensive data collection, spatial analysis, and visualization to create an accurate map. Recognized as a notable participant for outstanding work and innovative approach.
